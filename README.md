@@ -1,6 +1,4 @@
 # Presepe lights-controller eXPerience
-**Type**: Discrete Analog Design / Architecture | **Status**: Ongoing
-
 This laboratory experience documents the design and development of a modular control unit for the lighting of a crib (nativity scene).
 
 The core challenge of this project is to build a complete scenery controller following a strict analog philosophy: no microcontrollers, no firmware, and no digital ICs. Everything is implemented using exclusively discrete components, operational amplifiers, and classic analog design techniques.
